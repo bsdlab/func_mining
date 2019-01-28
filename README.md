@@ -1,7 +1,7 @@
 func_mining
 ==============================
 
-Code for the paper "Mining within-trial oscillatory brain dynamics to address the variability of optimized spatial filters". The paper is soon available here.
+Code for the paper "Mining within-trial oscillatory brain dynamics to address the variability of optimized spatial filters" in [IEEE Trans. on Neural Systems & Rehabiliation Engineering (2019)](https://doi.org/10.1109/TNSRE.2019.2894914).
 
 How to run the example notebook
 ------------
